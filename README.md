@@ -1,1 +1,1 @@
-Führe die PythonFile `cockigercock.py` aus, gebe eine Zahl ein. Diese Zahl wird der Länge entsprechen und drück `ENTER`. Da ist er dein Cock :)
+Führe die PythonFile `cockigercock.py` aus, gebe eine Zahl ein, diese Zahl wird der Länge entsprechen und nun drücke `ENTER`. Da ist er dein Cock :)
